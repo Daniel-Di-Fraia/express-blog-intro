@@ -4,7 +4,9 @@
   "description": "blog personale",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "watch": "node --watch app.js"
   },
   "author": "Daniel Di Fraia",
   "license": "ISC",
